@@ -1,0 +1,14 @@
+concept:agentcontrols
+concept:headquarteredin
+concept:companyeconomicsector
+concept:televisionstationaffiliatedwith
+concept:subpartoforganization
+concept:worksfor
+concept:subpartof
+concept:organizationheadquarteredincity
+concept:agentcollaborateswithagent
+concept:organizationhiredperson
+concept:acquired
+concept:agentbelongstoorganization
+concept:topmemberoforganization
+concept:organizationterminatedperson
